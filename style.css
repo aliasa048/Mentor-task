@@ -1,0 +1,84 @@
+.type .fellings button{
+    background-color: rgb(144, 179, 144) !important;
+    width: 100px;
+    height: 20px;
+}
+.type button{
+    height: 50px;
+}
+.container .row .col-lg-4 a{ 
+    color: rgb(77, 236, 77);
+}
+.type d-flex col-lg-8 .fellings .felling .text-decoration-none1 a{
+    color: rgb(77, 236, 77);
+}
+.type d-flex col-lg-8 .btn btn-outline-success{
+    color: red;
+}
+.womenpicture{
+    background-image: url(https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg);
+    height: 520px;
+}
+.womenpicture .writting{ 
+    padding: 6%;
+    
+}
+.student{
+   background-color: rgb(228, 223, 216);
+   height: 60px;
+}
+section{
+    padding: 60px;
+
+}
+.why-us .content {
+    padding: 30px;
+    background: rgb(196, 174, 174);
+    border-radius: 4px;
+    color: white;
+}
+why-us .content .more-btn {
+    display: inline-block;
+    background: rgb(209, 180, 180);
+    padding: 6px 30px 8px 30px;
+    color: white;
+    border-radius: 50px;
+}
+.features .icon-box {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid white;
+}
+.section-title h2 {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0;
+    line-height: 5px;
+    margin: 0 0 5px 0;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgb(230, 223, 210);
+    font-family: "Poppins", sans-serif;
+}
+.section-title p {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: rgb(73, 69, 69);
+}
+.description span {
+    font-size: 14px;
+    background: #5fcf80;
+    padding: 7px 14px;
+    color: white;
+    margin: 0;
+}
+footer{
+    padding: 60px 0;
+    overflow: hidden;
+}
+
+    
